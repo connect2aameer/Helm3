@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for testing voting app Services on Kubernetes
+name: wexhelmresult
+version: 1.0.0
